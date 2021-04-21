@@ -10,7 +10,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
 @RunWith(value = Parameterized.class)
-public class DDT_Login {
+public class DDT_CSV_Login {
 	
 	String email;
 	String password;
@@ -33,7 +33,7 @@ public class DDT_Login {
 		return utilities.CSV.get("C:\\My Files\\Java Workspace\\SeleniumTraining\\src\\Files\\Users.csv");
 	}
 	
-	public DDT_Login(String email, String password) {
+	public DDT_CSV_Login(String email, String password) {
 		this.email = email;
 		this.password = password;
 	}

@@ -7,7 +7,7 @@ public class DriverFactory {
 
 	//Define the WebDriver
 	public static WebDriver open() {
-		System.setProperty("webdriver.chrome.driver", "C:\\My Files\\Jars\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\My Files\\Software + Jars\\chromedriver.exe");
 		return new ChromeDriver();
 	}
 	
