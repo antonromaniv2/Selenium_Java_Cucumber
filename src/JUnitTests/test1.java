@@ -27,8 +27,6 @@ public class test1 {
 		 
 		 driver.findElement(By.name("commit")).click();
 		 
-		 String text = driver.findElement(By.xpath("/html[1]/body[1]/div[1]/h1[1]")).getText();
-		 
 		 driver.findElement(By.linkText("Users")).click();
 		 
 		 driver.findElement(By.cssSelector("button[data-bs-target='#createUserModal'][type='button']")).click();
