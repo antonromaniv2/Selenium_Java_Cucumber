@@ -18,7 +18,7 @@ public class LoginTest {
 	public void beforeMethod() {
 		
 		driver = utilities.DriverFactory.open();
-		driver.get("https://vishnu-qa.linksquares.dev/users/sign_in");
+		driver.get("https://vishnu-main.linksquares.dev/users/sign_in"); 
 	}
 	
 	@Test(dataProvider = "getData")

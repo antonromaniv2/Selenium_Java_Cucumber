@@ -19,7 +19,7 @@ public class DDT_CSV_Login {
 	public void Login() {
 		 WebDriver driver = utilities.DriverFactory.open();
 
-		 driver.get("https://vishnu-qa.linksquares.dev/users/sign_in");
+		 driver.get("https://vishnu-main.linksquares.dev/users/sign_in");
 		 
 		 driver.findElement(By.id("user_email")).sendKeys(email);
 		 driver.findElement(By.id("user_password")).sendKeys(password);

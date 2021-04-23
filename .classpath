@@ -11,8 +11,15 @@
 	<classpathentry kind="lib" path="C:/My Files/Software + Jars/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/My Files/Software + Jars/poi-4.1.2.jar"/>
 	<classpathentry kind="lib" path="C:/My Files/Software + Jars/commons-math3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Files/Software + Jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/My Files/Software + Jars/tag-expressions-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/My Files/Software + Jars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Files/Software + Jars/gherkin-18.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/My Files/Software + Jars/cucumber-core-6.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Files/Software + Jars/cucumber-gherkin-6.10.3.jar"/>
 	<classpathentry kind="lib" path="C:/My Files/Software + Jars/cucumber-java-6.10.3.jar"/>
 	<classpathentry kind="lib" path="C:/My Files/Software + Jars/cucumber-junit-6.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Files/Software + Jars/cucumber-picocontainer-6.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Files/Software + Jars/cucumber-plugin-6.10.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
